@@ -1,6 +1,13 @@
 # 4Doszer tool
 Ini ialah tool yang menyerang dengan menghantar Denial of Service (DOS) ke pelayan dengan mebanjiri pada port-port udp si server.
 
+Negaraku Malaysia
+
+# Disclaimer
+- script obfuscated saya tak ambil kesempatan untuk exploit atau pasang reverse shell pada device script kiddies.
+- saya mesra skido
+- Apa apa pertanyaan boleh contact saya
+
 # New features
 - Hostname(domain) into ip
 - Server ddos
@@ -27,6 +34,7 @@ python 4doszer.py
 
 # Info
 - Tool ini dicompile kerana saya sedang belajar dalam obfuscating scripting.
+- Mula saya compile dengan tool https://freecodingtools.org/py-obfuscator
 - File python yang telah dicompile kepada binary akan lagi pantas dibaca oleh interpreter.
 - saya compile file python ke binary dengan :
 
