@@ -1,7 +1,7 @@
 # 4Doszer tool
 Ini ialah tool yang menyerang dengan menghantar Denial of Service (DOS) ke pelayan dengan mebanjiri pada port-port udp si server.
 
-Negaraku Malaysia
+\# Negaraku Malaysia
 
 # Disclaimer
 - script obfuscated saya tak ambil kesempatan untuk exploit atau pasang reverse shell pada device script kiddies.
