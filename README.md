@@ -27,7 +27,7 @@ python 4doszer.py
 
 # Info
 - Tool ini dicompile kerana saya sedang belajar dalam obfuscating scripting.
-
+- File python yang telah dicompile kepada binary akan lagi pantas dibaca oleh interpreter.
 - saya compile file python ke binary dengan :
 
 ```bash
