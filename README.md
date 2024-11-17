@@ -1,6 +1,10 @@
 # 4Doszer tool
 Ini ialah tool yang menyerang dengan menghantar Denial of Service (DOS) ke pelayan dengan mebanjiri pada port-port udp si server.
 
+# New features
+- Hostname(domain) into ip
+- Server ddos
+
 # Screenshot
 <img src="img/IMG_20241117_103309.jpg">
 <img src="img/IMG_20241117_103252.jpg">
@@ -16,7 +20,7 @@ pkg update && pkg upgrade -y && pkg install git -y && pkg install python -y
 ```bash
 git clone https://github.com/mika259/4doszer
 cd 4doszer
-python doszer.py
+python 4doszer.py
 ```
 
 - Unix-Like user mesti dah tahu cara pasang sendiri.
