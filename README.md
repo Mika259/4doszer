@@ -23,3 +23,6 @@ python doszer.py
 
 # Info
 - Tool ini dicompile kerana saya sedang belajar dalam obfuscating scripting.
+
+# Source Code of file
+<script src="https://gist.github.com/Mika259/832e0b155c1ed9b1179a185a78db906d.js"></script>
