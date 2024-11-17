@@ -3,7 +3,7 @@ Ini ialah tool yang menyerang dengan menghantar Denial of Service (DOS) ke pelay
 
 # Screenshot
 <img src="img/IMG_20241117_103252.jpg">
-<img src="img/IMG_20241117_103309.jp">
+<img src="img/IMG_20241117_103309.jpg">
 
 # Use as Termux
 - Update package, upgrade package, install git, install python.
