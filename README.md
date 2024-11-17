@@ -2,8 +2,8 @@
 Ini ialah tool yang menyerang dengan menghantar Denial of Service (DOS) ke pelayan dengan mebanjiri pada port-port udp si server.
 
 # Screenshot
-<img src="IMG_20241117_103252.jpg">
-<img src="IMG_20241117_103309.jp">
+<img src="img/IMG_20241117_103252.jpg">
+<img src="img/IMG_20241117_103309.jp">
 
 # Use as Termux
 - Update package, upgrade package, install git, install python.
