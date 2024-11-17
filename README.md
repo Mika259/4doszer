@@ -24,5 +24,13 @@ python doszer.py
 # Info
 - Tool ini dicompile kerana saya sedang belajar dalam obfuscating scripting.
 
+- saya compile file python ke binary dengan :
+
+```bash
+python -m py_compile dos.py
+```
+
+- output file binary dalam folder '__pycache__' boleh run terus compiled file tu.
+
 # Source Code of file
 <a href="https://gist.github.com/Mika259/832e0b155c1ed9b1179a185a78db906d">see here</a>
